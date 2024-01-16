@@ -61,3 +61,14 @@
   - GET method in Redux Toolkit called query
   2. Mutation
   - PUT, PATCH, DELETE all are called mutation in Redux Toolkit
+
+### Covered topics in Module 04
+
+- Redux have built-in cache feature
+- For use cache feaature we need
+  - tagTypes --> Need inside createApi
+  - providesTags --> Need inside query
+  - invalidatesTags --> Need inside mutation
+- In api Query Hooks second parameter, we can pass different options
+- When we need live interaction like relaod after 30 seconds, we can use polling interval options
+- By keep cache we can increase the web site performance
