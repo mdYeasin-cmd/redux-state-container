@@ -72,3 +72,12 @@
 - In api Query Hooks second parameter, we can pass different options
 - When we need live interaction like relaod after 30 seconds, we can use polling interval options
 - By keep cache we can increase the web site performance
+
+### Covered topics in Module 05
+
+- When we use Framework or Library we should avoid writing raw css code.
+- We should analysis requirements before jump into code.
+- "/" by slash means that the router path is Absolute path.
+- Without slash router path is Relative path.
+- Need to think always how make the code reuseable with more flexible way.
+- DRY -> Don't Repeat Yourself
