@@ -81,3 +81,26 @@
 - Without slash router path is Relative path.
 - Need to think always how make the code reuseable with more flexible way.
 - DRY -> Don't Repeat Yourself
+
+### Covered topics in Module 06
+
+- "!" --> Not null assertion operator in typescript. By this we mean that the value will not undefined or null
+- What is Barrel?
+  - Barrels are a technique used to roll up exports from different modules into a single one, usually called index.ts, to simplify the imports. Barrels thus simply combine the exports of one or more other modules. By making use of the re-export functionality, you can actually create barrels.
+- What is HOC - Higher Order Component?
+  - In React, a higher-order component is a function that takes a component as an argument and returns a new component that wraps the original component.
+- In Redux RTK query for createApi() function three arguments are mandatory
+  1. reducerPath: "name",
+  2. baseQuery: fetchBaseQuery({})
+  3. endpoints: () => ({})
+- Steps of set cookie in browser with Redux
+  1. In baseApi fetchQuery credentials option should be "include"
+  2. On backend in cors credentials should be true
+- Authentication related package name
+  - jwt-decode
+  - redux-presist
+- Serializeable object and Non-serializeable object
+  - A serializable object can be converted into some other representation such as text in order to be easily transmitted across process boundaries while a non-serializable object cannot.
+  - Serializeable object we can stringify esily using JSON.stringify() method.
+  - Which object we can not strinify using JSON.stringify() method that is non-serializeable object in JavaScript
+  - In other word if object contian method that is non-serializeable object
