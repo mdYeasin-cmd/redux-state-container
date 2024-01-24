@@ -104,3 +104,13 @@
   - Serializeable object we can stringify esily using JSON.stringify() method.
   - Which object we can not strinify using JSON.stringify() method that is non-serializeable object in JavaScript
   - In other word if object contian method that is non-serializeable object
+
+### Covered topics in Module 07
+
+- Login Redirect and Logout
+- Send refresh token to get acess token
+- If refresh token is expired kick out user
+- Form handle npm
+  - react-hook-form
+  - Formik
+- For catch jwt.verify() fuction error, we should use it inside try catch block.
