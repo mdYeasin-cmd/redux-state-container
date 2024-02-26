@@ -114,3 +114,10 @@
   - react-hook-form
   - Formik
 - For catch jwt.verify() fuction error, we should use it inside try catch block.
+
+## Fullstack Track
+
+### Covered topics in Module 10
+
+- When we work in a development team, before start coding we should pull from github reposity.
+- If we organize our folder structure depending on routes name that will more navigateable on developer perspective
