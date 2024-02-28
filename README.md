@@ -121,3 +121,12 @@
 
 - When we work in a development team, before start coding we should pull from github reposity.
 - If we organize our folder structure depending on routes name that will more navigateable on developer perspective
+
+### Covered topics in Module 11
+
+- FormData() constructor used for send file and form data to backend.
+- Some method to see form data value -
+  - formData.get("key", "value");
+  - formData.entries();
+  - Object.formEntries(formData) --> this is the best option for see form data values.
+- Image uplaod functionality don't work in free hosting server
