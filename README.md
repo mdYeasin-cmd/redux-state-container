@@ -130,3 +130,8 @@
   - formData.entries();
   - Object.formEntries(formData) --> this is the best option for see form data values.
 - Image uplaod functionality don't work in free hosting server
+
+### Covered topics in Module 12
+
+- Need to study with modal ux.
+- Andt table pagination is not good, because we can't implement backend pagination there. Instead of table pagination we can use Pagination component fron Andt where we can implement backend pagination.
