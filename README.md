@@ -139,3 +139,4 @@
 ### Covered topics in Module 13
 
 - Object.values() method is handful for manipulate object in differnet cases.
+- We can use reduce array method for alter a array of object.
