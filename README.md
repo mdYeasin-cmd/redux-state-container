@@ -135,3 +135,7 @@
 
 - Need to study with modal ux.
 - Andt table pagination is not good, because we can't implement backend pagination there. Instead of table pagination we can use Pagination component fron Andt where we can implement backend pagination.
+
+### Covered topics in Module 13
+
+- Object.values() method is handful for manipulate object in differnet cases.
